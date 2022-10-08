@@ -1970,7 +1970,7 @@ contributors = [
   },
   {
     id: 411,
-    fullname: "Ryan",
+    fullname: "Reihen Nath",
     username: "https://github.com/Reihen-afk",
   },
 ];
